@@ -1,18 +1,67 @@
 # 👋 Hi, I'm Chandan B
 
-### 🚀 Data Science Learner | Python • SQL • Excel • Data Analytics
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Chandan%20B&fontSize=55&fontAlignY=35&desc=Data%20Science%20Learner%20%7C%20Python%20%7C%20SQL%20%7C%20Excel&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-I'm building my career in **Data Science** through structured learning, hands-on practice, and real-world projects.
+<p align="center">
+  <b>🚀 Building my journey from Data Analytics to Data Science & AI</b>
+</p>
 
-My approach is simple: **learn → practice → build → document → improve.**
-
-I'm currently progressing through a structured Data Science & Gen AI program, strengthening my foundations in programming, databases, analytics, and AI.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Completed-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Completed-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-Learning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-In%20Progress-8A2BE2?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🧭 My Data Science Journey
+## 🧑‍💻 About Me
 
-| Area                           | Status                |
+I'm a **Data Science learner** focused on developing practical skills through structured learning, problem-solving, and hands-on projects.
+
+I'm currently progressing through a **Data Science & Gen AI program**, building my foundation step by step across programming, databases, analytics, machine learning, and AI.
+
+I believe in:
+
+> **Learn → Practice → Build → Document → Improve**
+
+Rather than simply completing courses, I'm using GitHub to document what I learn and build projects that demonstrate my practical skills.
+
+---
+
+## 🧭 My Learning Journey
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi" />
+</p>
+
+```text
+🐍 Python
+   ↓
+🗄️ SQL
+   ↓
+📊 Excel / Advanced Excel       ← CURRENT
+   ↓
+📈 Power BI
+   ↓
+📉 Statistics
+   ↓
+🤖 Machine Learning
+   ↓
+🧠 Artificial Intelligence
+   ↓
+✨ Generative AI
+   ↓
+🧩 Agentic AI
+```
+
+---
+
+## 📚 Learning Progress
+
+| Technology / Subject           | Status                |
 | ------------------------------ | --------------------- |
 | 🐍 Python                      | ✅ Completed           |
 | 🗄️ SQL                        | ✅ Completed           |
@@ -24,171 +73,183 @@ I'm currently progressing through a structured Data Science & Gen AI program, st
 | ✨ Generative AI                | ⏳ Upcoming            |
 | 🧩 Agentic AI                  | ⏳ Upcoming            |
 
-> **Current Focus:** Excel & Advanced Excel
-
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### 💻 Programming & Databases
+### 💻 Programming & Database
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Completed-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-### 📊 Data & Analytics
+### 📊 Data Analytics
 
-![Excel](https://img.shields.io/badge/Excel-Learning-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Upcoming-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=excel" />
+</p>
 
-### 🤖 AI & Data Science
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-FF6F00?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-Learning-8A2BE2?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/SQL-Queries%20%26%20Analytics-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
 ### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
 
 ---
 
-## 📚 What I've Completed
+## 🐍 Python — Completed
 
-### 🐍 Python
+My Python learning journey includes:
 
-* Python fundamentals
-* Variables and data types
-* Strings and collections
-* Conditional statements
+* Variables & Data Types
+* Strings
+* Lists, Tuples, Sets & Dictionaries
+* Conditional Statements
 * Loops
 * Functions
 * Object-Oriented Programming
-* File handling
-* Exception handling
-* Console-based projects
-* Practical problem solving
+* File Handling
+* Exception Handling
+* Problem Solving
+* Console-based Applications
 
-### 🗄️ SQL
+### 🚀 Python Projects
 
-* Database fundamentals
-* SQL commands
+* 🎓 Student Management System
+* 🚗 Vehicle Management System
+* 🎟️ Event Ticket Reservation System
+* 🎬 Movie Ticket Booking System
+* 🔨 More projects in progress
+
+---
+
+## 🗄️ SQL — Completed
+
+SQL topics practiced include:
+
+* Database & DBMS fundamentals
 * DDL, DML, DQL, DCL & TCL
-* Filtering and sorting
-* Aggregate functions
+* SELECT queries
+* Filtering & Sorting
+* Aggregate Functions
 * GROUP BY & HAVING
 * Joins
 * Subqueries
 * Constraints
-* Real-world SQL problem solving
+* Real-world SQL problems
+* Interview-oriented SQL practice
 
 ---
 
-## 🔄 Currently Learning
+## 📊 Excel — Currently Learning
 
-### 📊 Excel & Advanced Excel
+I'm currently developing my **Excel & Advanced Excel** skills through practical assignments.
 
-Currently strengthening my Excel skills through practical assignments and data-analysis exercises.
+### Current Focus
 
-Focus areas include:
-
-* Data cleaning
-* Sorting & filtering
-* Excel functions
-* VLOOKUP and lookup functions
-* Conditional logic
-* Data analysis
+* Data Cleaning
+* Excel Functions
+* Logical Functions
+* Lookup Functions
+* VLOOKUP
+* Data Analysis
 * Pivot Tables
-* Charts & visualization
+* Charts & Visualization
 * Advanced Excel techniques
 
 ---
 
 ## 🚀 Projects
 
-I believe projects are more valuable than simply collecting course certificates.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Projects-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Practice-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-Projects-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-### 🐍 Python Projects
-
-* Student Management System
-* Vehicle Management System
-* Event Ticket Reservation System
-* Movie Ticket Booking System
-* More projects in progress...
-
-### 🗄️ SQL Projects & Practice
-
-* SQL interview problems
-* Real-world database queries
-* Joins and analytical queries
-* Business-oriented SQL problems
-
-### 📊 Excel Projects
-
-* Excel VLOOKUP Assignment
-* Data analysis exercises
-* Lookup and reporting tasks
-* More projects coming soon...
+| Project                             | Technology   | Status       |
+| ----------------------------------- | ------------ | ------------ |
+| 🎓 Student Management System        | Python       | ✅ Completed  |
+| 🚗 Vehicle Management System        | Python       | ✅ Completed  |
+| 🎟️ Event Ticket Reservation System | Python       | 🔄 Improving |
+| 🎬 Movie Ticket Booking System      | Python + SQL | 🔄 Building  |
+| 📊 Excel VLOOKUP Assignment         | Excel        | 🔄 Current   |
 
 ---
 
-## 🎯 Learning Philosophy
+## 🎯 My Current Goal
 
-```text
-Learn the concept
-      ↓
-Practice the concept
-      ↓
-Solve problems
-      ↓
-Build a project
-      ↓
-Document it on GitHub
-      ↓
-Improve
-```
+I'm working toward becoming a **job-ready Data Science professional** by building strong fundamentals and gaining practical experience.
 
-I'm focused on building **practical skills rather than just completing a syllabus.**
-
----
-
-## 📈 Current Goal
-
-My goal is to become a **job-ready Data Science / Data Analytics professional** by developing strong fundamentals and building practical projects across:
+### My roadmap:
 
 **Python → SQL → Excel → Power BI → Statistics → Machine Learning → AI → Gen AI → Agentic AI**
 
+The goal isn't just to finish the syllabus.
+
+**The goal is to be able to build.**
+
 ---
 
-## 📂 What You'll Find on My GitHub
+## 📂 What You'll Find Here
 
-🔹 Python practice & projects
-🔹 SQL queries & exercises
-🔹 Excel assignments
-🔹 Data analysis projects
-🔹 Machine Learning projects *(upcoming)*
-🔹 AI & Gen AI projects *(upcoming)*
-🔹 Learning notes & documentation
+🐍 Python practice & projects
+🗄️ SQL queries & exercises
+📊 Excel assignments
+📈 Data Analytics projects
+🤖 Machine Learning projects
+🧠 AI & Gen AI projects
+🧩 Agentic AI projects
+📝 Learning notes & documentation
+
+---
+
+## 📊 My Learning Philosophy
+
+<p align="center">
+
+**LEARN** 📚
+   ↓   
+**PRACTICE** 💻
+   ↓   
+**SOLVE** 🧠
+   ↓   
+**BUILD** 🚀
+   ↓   
+**DOCUMENT** 📝
+   ↓   
+**IMPROVE** 📈
+
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-💼 **LinkedIn:** [linkedin.com/in/chandan47](https://linkedin.com/in/chandan47)
-
-🐙 **GitHub:** [github.com/chandanB47](https://github.com/chandanB47)
-
----
-
-## ⚡ A Little About Me
-
-I enjoy taking a concept that initially looks complicated, breaking it down into smaller pieces, and turning it into something practical.
-
-I'm documenting my journey publicly so I can **track my progress, build consistently, and become better every day.**
+<p align="center">
+  <a href="https://github.com/chandanB47">
+    <img src="https://img.shields.io/badge/GitHub-chandanB47-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/chandan47">
+    <img src="https://img.shields.io/badge/LinkedIn-Chandan%20B-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <i>🚀 Learning every day. Building consistently. Growing step by step.</i>
+</p>
 
-If you find something useful in my repositories, feel free to explore, star ⭐, or share feedback.
+<p align="center">
+  ⭐ If you find something useful in my repositories, feel free to star them!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
