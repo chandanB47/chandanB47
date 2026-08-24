@@ -1,84 +1,194 @@
-# Hi there, I’m Chandan B 👋  
+# 👋 Hi, I'm Chandan B
 
-🚀 **Data Analyst | SQL • Excel • Power BI • Python (Basics)**  
+### 🚀 Data Science Learner | Python • SQL • Excel • Data Analytics
 
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
-![SQL](https://img.shields.io/badge/SQL-Expert-orange)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)
-![Python](https://img.shields.io/badge/Python-Basics-lightgrey)
+I'm building my career in **Data Science** through structured learning, hands-on practice, and real-world projects.
 
-I’m a Data Analyst focused on transforming raw data into meaningful, actionable insights through analysis, visualization, and storytelling. I enjoy working with real-world datasets, building dashboards, and solving business problems using data-driven approaches.
+My approach is simple: **learn → practice → build → document → improve.**
 
----
-
-## 🚀 About Me  
-
-I am a **Data Analyst** with hands-on experience in **Excel, SQL, and Power BI**, actively building end-to-end analytics projects. I focus on data cleaning, exploratory analysis, dashboard creation, and translating complex data into insights that support better decision-making.
-
-I use **Python at a basic level** for data understanding and analysis and am continuously improving my skills by working on practical projects, learning advanced analytics concepts, and exploring how data can drive business strategy and performance.
+I'm currently progressing through a structured Data Science & Gen AI program, strengthening my foundations in programming, databases, analytics, and AI.
 
 ---
 
-## 🔭 What I’m Currently Working On  
+## 🧭 My Data Science Journey
 
-📌 End-to-end **Data Analytics projects** (Excel → SQL → Power BI)  
-📌 Interactive **Power BI dashboards** with business insights  
-📌 Basic data cleaning and analysis using **Python (learning Pandas & NumPy)**  
-📌 Strengthening **SQL skills** with real-world query problems  
+| Area                           | Status                |
+| ------------------------------ | --------------------- |
+| 🐍 Python                      | ✅ Completed           |
+| 🗄️ SQL                        | ✅ Completed           |
+| 📊 Excel / Advanced Excel      | 🔄 Currently Learning |
+| 📈 Power BI                    | ⏳ Upcoming            |
+| 📉 Statistics for Data Science | ⏳ Upcoming            |
+| 🤖 Machine Learning            | ⏳ Upcoming            |
+| 🧠 Artificial Intelligence     | ⏳ Upcoming            |
+| ✨ Generative AI                | ⏳ Upcoming            |
+| 🧩 Agentic AI                  | ⏳ Upcoming            |
 
----
-
-## 🌱 What I’m Currently Learning  
-
-- Advanced **Power BI** (DAX, data modeling, performance optimization)  
-- **Python for Data Analysis** (currently at basics level)  
-- Fundamentals of **Machine Learning for Data Analytics**  
-- Best practices for **analytics project documentation**  
-
----
-
-## 🛠 Skills  
-
-### 📌 Programming & Query Languages  
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-![Python](https://img.shields.io/badge/Python-Basics-lightgrey)
-
-### 📊 Data Analysis & Visualization  
-![Excel](https://img.shields.io/badge/Excel-Advanced-green)
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Basic-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-Basic-lightblue)
-
-### 🧠 Data Analytics Concepts  
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- Dashboard Design & Storytelling  
-- Business Insights & Reporting  
-
-### ⚙ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-GitHub-black)
-![Power BI Service](https://img.shields.io/badge/Power%20BI-Service-yellow)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+> **Current Focus:** Excel & Advanced Excel
 
 ---
 
-## 📌 Ask Me About  
-- SQL queries and joins  
-- Power BI dashboards  
-- Excel automation and analysis  
-- Structuring data analytics projects  
+## 🛠️ Skills & Technologies
+
+### 💻 Programming & Databases
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Completed-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 📊 Data & Analytics
+
+![Excel](https://img.shields.io/badge/Excel-Learning-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Upcoming-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+### 🤖 AI & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Learning-FF6F00?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Learning-8A2BE2?style=for-the-badge)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
 
-## 📫 How to Reach Me  
-🔗 **LinkedIn:** https://linkedin.com/in/chandan47  
-💻 **GitHub:** https://github.com/chandanB47  
+## 📚 What I've Completed
+
+### 🐍 Python
+
+* Python fundamentals
+* Variables and data types
+* Strings and collections
+* Conditional statements
+* Loops
+* Functions
+* Object-Oriented Programming
+* File handling
+* Exception handling
+* Console-based projects
+* Practical problem solving
+
+### 🗄️ SQL
+
+* Database fundamentals
+* SQL commands
+* DDL, DML, DQL, DCL & TCL
+* Filtering and sorting
+* Aggregate functions
+* GROUP BY & HAVING
+* Joins
+* Subqueries
+* Constraints
+* Real-world SQL problem solving
 
 ---
 
-## ⚡ Fun Fact  
-I enjoy turning messy datasets into clean dashboards that actually make sense to business users.
+## 🔄 Currently Learning
+
+### 📊 Excel & Advanced Excel
+
+Currently strengthening my Excel skills through practical assignments and data-analysis exercises.
+
+Focus areas include:
+
+* Data cleaning
+* Sorting & filtering
+* Excel functions
+* VLOOKUP and lookup functions
+* Conditional logic
+* Data analysis
+* Pivot Tables
+* Charts & visualization
+* Advanced Excel techniques
 
 ---
 
-⭐️ *If you find my projects useful, feel free to star the repositories!*
+## 🚀 Projects
+
+I believe projects are more valuable than simply collecting course certificates.
+
+### 🐍 Python Projects
+
+* Student Management System
+* Vehicle Management System
+* Event Ticket Reservation System
+* Movie Ticket Booking System
+* More projects in progress...
+
+### 🗄️ SQL Projects & Practice
+
+* SQL interview problems
+* Real-world database queries
+* Joins and analytical queries
+* Business-oriented SQL problems
+
+### 📊 Excel Projects
+
+* Excel VLOOKUP Assignment
+* Data analysis exercises
+* Lookup and reporting tasks
+* More projects coming soon...
+
+---
+
+## 🎯 Learning Philosophy
+
+```text
+Learn the concept
+      ↓
+Practice the concept
+      ↓
+Solve problems
+      ↓
+Build a project
+      ↓
+Document it on GitHub
+      ↓
+Improve
+```
+
+I'm focused on building **practical skills rather than just completing a syllabus.**
+
+---
+
+## 📈 Current Goal
+
+My goal is to become a **job-ready Data Science / Data Analytics professional** by developing strong fundamentals and building practical projects across:
+
+**Python → SQL → Excel → Power BI → Statistics → Machine Learning → AI → Gen AI → Agentic AI**
+
+---
+
+## 📂 What You'll Find on My GitHub
+
+🔹 Python practice & projects
+🔹 SQL queries & exercises
+🔹 Excel assignments
+🔹 Data analysis projects
+🔹 Machine Learning projects *(upcoming)*
+🔹 AI & Gen AI projects *(upcoming)*
+🔹 Learning notes & documentation
+
+---
+
+## 🔗 Connect With Me
+
+💼 **LinkedIn:** [linkedin.com/in/chandan47](https://linkedin.com/in/chandan47)
+
+🐙 **GitHub:** [github.com/chandanB47](https://github.com/chandanB47)
+
+---
+
+## ⚡ A Little About Me
+
+I enjoy taking a concept that initially looks complicated, breaking it down into smaller pieces, and turning it into something practical.
+
+I'm documenting my journey publicly so I can **track my progress, build consistently, and become better every day.**
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you find something useful in my repositories, feel free to explore, star ⭐, or share feedback.
