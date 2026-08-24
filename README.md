@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chandan B
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=220&section=header&text=Chandan%20B&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=Data%20Science%20Learner%20%7C%20Python%20%7C%20SQL%20%7C%20Excel&descAlignY=58&descSize=18&descColor=22D3EE" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=220&section=header&text=DATA%20SCIENCE%20JOURNEY&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Python%20%7C%20SQL%20%7C%20Excel%20%7C%20Analytics%20%7C%20AI&descAlignY=58&descSize=18&descColor=22D3EE" width="100%"/>
 </p>
 
 <p align="center">
