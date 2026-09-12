@@ -176,8 +176,7 @@ I'm currently developing my **Excel & Advanced Excel** skills through practical 
 | ----------------------------------- | ------------ | ------------ |
 | 🎓 Student Management System        | Python       | ✅ Completed  |
 | 🚗 Vehicle Management System        | Python       | ✅ Completed  |
-| 🎟️ Event Ticket Reservation System | Python       | 🔄 Improving |
-| 🎬 Movie Ticket Booking System      | Python + SQL | 🔄 Building  |
+| 🎟️ Event Ticket Reservation System | Python       | ✅ Completed |
 | 📊 Excel VLOOKUP Assignment         | Excel        | 🔄 Current   |
 
 ---
