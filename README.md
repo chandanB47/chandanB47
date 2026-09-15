@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chandan B
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=220&section=header&text=DATA%20SCIENCE%20JOURNEY&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Python%20%7C%20SQL%20%7C%20Excel%20%7C%20Analytics%20%7C%20AI&descAlignY=58&descSize=18&descColor=22D3EE" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=220&section=header&text=DATA%20SCIENCE%20JOURNEY&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Python%20%7C%20SQL%20%7C%20Excel%20%7C%20PowerBI%20%7C%20Analytics%20%7C%20AI&descAlignY=58&descSize=18&descColor=22D3EE" width="100%"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Completed-6D28D9?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Completed-6D28D9?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-Learning-6D28D9?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-Completed-6D28D9?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Science-In%20Progress-22D3EE?style=for-the-badge&logoColor=0F172A"/>
 </p>
 
