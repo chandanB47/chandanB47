@@ -42,9 +42,9 @@ Rather than simply completing courses, I'm using GitHub to document what I learn
    ↓
 🗄️ SQL
    ↓
-📊 Excel / Advanced Excel       ← CURRENT
+📊 Excel / Advanced Excel      
    ↓
-📈 Power BI
+📈 Power BI                   ← CURRENT
    ↓
 📉 Statistics
    ↓
@@ -65,8 +65,8 @@ Rather than simply completing courses, I'm using GitHub to document what I learn
 | ------------------------------ | --------------------- |
 | 🐍 Python                      | ✅ Completed           |
 | 🗄️ SQL                        | ✅ Completed           |
-| 📊 Excel / Advanced Excel      | 🔄 Currently Learning |
-| 📈 Power BI                    | ⏳ Upcoming            |
+| 📊 Excel / Advanced Excel      | ✅ Completed          |
+| 📈 Power BI                    | 🔄 Currently Learning           |
 | 📉 Statistics for Data Science | ⏳ Upcoming            |
 | 🤖 Machine Learning            | ⏳ Upcoming            |
 | 🧠 Artificial Intelligence     | ⏳ Upcoming            |
@@ -118,13 +118,7 @@ My Python learning journey includes:
 * Problem Solving
 * Console-based Applications
 
-### 🚀 Python Projects
 
-* 🎓 Student Management System
-* 🚗 Vehicle Management System
-* 🎟️ Event Ticket Reservation System
-* 🎬 Movie Ticket Booking System
-* 🔨 More projects in progress
 
 ---
 
@@ -146,7 +140,7 @@ SQL topics practiced include:
 
 ---
 
-## 📊 Excel — Currently Learning
+## 📊 Excel — Completed
 
 I'm currently developing my **Excel & Advanced Excel** skills through practical assignments.
 
