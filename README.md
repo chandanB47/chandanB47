@@ -3,115 +3,88 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Chandan B — Data Analyst and Data Science learner">
+  <img src="./dark.svg" alt="Chandan B — Data Analytics and Data Science portfolio dashboard">
 </picture>
 
 <p align="center">
-  <b>Data Analyst · Data Science · Business Intelligence · Data Visualization</b>
+  <b>Data Analytics · Business Intelligence · Data Science</b>
 </p>
 
 <p align="center">
-  🐍 Python &nbsp;·&nbsp; 🗄️ SQL / MySQL &nbsp;·&nbsp; 📊 Excel &nbsp;·&nbsp; 📈 Power BI
-  &nbsp;·&nbsp; 📉 Statistics &nbsp;·&nbsp; 🤖 Machine Learning
+  <a href="https://github.com/chandanB47"><img src="https://img.shields.io/badge/GitHub-chandanB47-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/chandan47"><img src="https://img.shields.io/badge/LinkedIn-Chandan%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-
-I build practical data projects while progressing from **Data Analytics toward Data Science and AI**.
-
-My approach is simple:
-
-> **Learn → Practice → Build → Analyze → Document → Improve**
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm **Chandan B**, focused on developing job-ready skills in:
+I'm **Chandan B**, a Data Science learner building practical skills across **Python, SQL, Excel and Power BI**.
 
-- 📊 Data Analytics
-- 🗄️ SQL / MySQL
-- 🐍 Python
-- 📈 Power BI
-- 📊 Excel
-- 📉 Statistics
-- 🤖 Machine Learning
-- 🧠 AI / Generative AI
+My focus is on turning raw data into:
 
-I use GitHub as a working portfolio to document what I learn and demonstrate it through practical projects.
+**Clean Data → Analysis → Visualization → Business Insights**
+
+I use GitHub to document my learning, build portfolio projects, and gradually move from Data Analytics toward **Data Science and AI**.
+
+> **Learn → Practice → Solve → Build → Document → Improve**
 
 ---
 
-## 📊 What I Build
+## 📊 What I Work On
 
-### 🗄️ SQL Analytics
-Business questions, joins, aggregation, subqueries, constraints, data cleaning and analytical reporting.
-
-### 🐍 Python
-Programming fundamentals, OOP, file handling, exception handling, problem solving and data-focused applications.
-
-### 📈 Power BI
-Power Query, data preparation, transformations, relationships, modeling, DAX, measures and interactive dashboards.
-
-### 📊 Excel
-Data cleaning, functions, lookups, PivotTables, charts and business analysis.
-
-### 📦 Business Projects
-Retail, supply chain, inventory and operational analytics projects designed around real-world business questions.
+| Area | Focus |
+|---|---|
+| 🐍 Python | Programming, OOP, problem solving and data-focused applications |
+| 🗄️ SQL / MySQL | Queries, joins, aggregation, subqueries and business analysis |
+| 📊 Excel | Cleaning, functions, lookups, PivotTables and visualization |
+| 📈 Power BI | Power Query, transformation, modeling, DAX and dashboards |
+| 📦 Business Analytics | Retail, supply chain, inventory and operational analysis |
+| 🤖 Future | Statistics, Machine Learning, AI, Gen AI and Agentic AI |
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛒 Retail Store Operations & Analytics
-**MySQL · SQL**
+**SQL / MySQL**
 
-Business-oriented analysis of customers, products, orders, sales and operational data.
+Business-focused SQL analysis covering customers, products, orders, sales and operational questions.
 
-**Skills demonstrated:** SQL querying, joins, aggregation, data cleaning and business analysis.
+**Skills:** SQL queries · joins · aggregation · data cleaning · business analysis
 
 ---
 
 ### 📦 Supply Chain & Inventory Health Optimizer
 **Python · SQL · Excel · Power BI**
 
-End-to-end analytics project focused on inventory health, stock movement, supplier performance and business KPIs.
+An end-to-end analytics project focused on inventory health, stock movement, supplier performance and business KPIs.
 
-**Skills demonstrated:** data preparation, analysis, KPI design and dashboard reporting.
-
-> Repository link will be added when the project is published.
+**Skills:** data preparation · analysis · KPI design · reporting · dashboarding
 
 ---
 
 ### 📈 Power BI Analytics Portfolio
 **Power BI · Power Query · DAX**
 
-Structured Power BI learning portfolio covering data import, cleaning, transformation, modeling, relationships, DAX and dashboard development.
+A structured Power BI learning portfolio covering data import, cleaning, transformation, merge/append, modeling, relationships, DAX and interactive dashboards.
 
-🔗 [Data Science Learning Repository](https://github.com/chandanB47/Data-Science-Learning)
+🔗 [Open Data Science Learning Repository](https://github.com/chandanB47/Data-Science-Learning)
 
 ---
 
-### 🎓 Student Management System
+### 🐍 Python Applications
 **Python · OOP · CLI**
 
-Menu-driven application covering CRUD operations, marks, averages, grading and pass/fail logic.
+Portfolio applications including:
+
+- Student Management System
+- Vehicle Management System
+- Event Ticket Reservation System
 
 ---
 
-### 🚗 Vehicle Management System
-**Python · OOP · CLI**
-
-Console-based vehicle rental management application built to practice Python fundamentals and object-oriented programming.
-
----
-
-### 🎟️ Event Ticket Reservation System
-**Python · OOP**
-
-Console application focused on reservation flow, validation, classes and business logic.
-
----
-
-## 🧭 Learning Journey
+## 🧭 Learning Roadmap
 
 ```text
 🐍 Python
@@ -120,7 +93,7 @@ Console application focused on reservation flow, validation, classes and busines
    ↓
 📊 Excel
    ↓
-📈 Power BI                  ← CURRENT
+📈 Power BI              ← CURRENT
    ↓
 📉 Statistics
    ↓
@@ -135,13 +108,13 @@ Console application focused on reservation flow, validation, classes and busines
 
 ---
 
-## 📚 Progress
+## 📚 Current Progress
 
-| Area | Status |
+| Skill | Status |
 |---|---|
 | 🐍 Python | ✅ Completed |
 | 🗄️ SQL / MySQL | ✅ Completed |
-| 📊 Excel | ✅ Completed |
+| 📊 Excel / Advanced Excel | ✅ Completed |
 | 📈 Power BI | 🔄 Currently Learning |
 | 📉 Statistics | ⏳ Upcoming |
 | 🤖 Machine Learning | ⏳ Upcoming |
@@ -153,94 +126,98 @@ Console application focused on reservation flow, validation, classes and busines
 
 ## 🛠️ Tech Stack
 
-**Programming:** `Python`
+### Programming
+`Python`
 
-**Database:** `SQL` `MySQL`
+### Database
+`SQL` `MySQL`
 
-**Analytics:** `Excel` `Power BI`
+### Analytics & BI
+`Excel` `Power BI` `Power Query` `DAX`
 
-**BI:** `Power Query` `DAX`
+### Tools
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
 
-**Tools:** `Git` `GitHub` `VS Code` `Jupyter Notebook`
-
-**Next:** `Statistics` `Machine Learning` `AI` `Gen AI` `Agentic AI`
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanB47&show_icons=true&hide_border=true&rank_icon=github" alt="Chandan B GitHub statistics">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanB47&hide_border=true" alt="Chandan B GitHub streak">
-</p>
+### Upcoming
+`Statistics` `Machine Learning` `AI` `Generative AI` `Agentic AI`
 
 ---
 
-## 📂 Explore My Work
+## 📈 Power BI — Current Focus
 
-<p align="center">
-
-<a href="https://github.com/chandanB47/Data-Science-Learning">
-<img src="https://img.shields.io/badge/📚%20Data%20Science%20Learning-Repository-2563EB?style=for-the-badge" alt="Data Science Learning">
-</a>
-
-<a href="https://github.com/chandanB47?tab=repositories">
-<img src="https://img.shields.io/badge/🚀%20All%20Projects-GitHub-181717?style=for-the-badge&logo=github" alt="All Projects">
-</a>
-
-</p>
-
----
-
-## 🧠 Learning Philosophy
+My current Power BI work follows a structured progression:
 
 ```text
-       LEARN 📚
-          ↓
-     PRACTICE 💻
-          ↓
-       SOLVE 🧠
-          ↓
-       BUILD 🚀
-          ↓
-    DOCUMENT 📝
-          ↓
-     IMPROVE 📈
+Import
+  ↓
+Data Types
+  ↓
+Clean & Transform
+  ↓
+Merge / Append
+  ↓
+Model
+  ↓
+Relationships
+  ↓
+DAX & Measures
+  ↓
+Interactive Dashboard
 ```
 
-**The goal isn't just to finish a syllabus.  
-The goal is to build things that demonstrate the skill.**
+I document each learning stage and practice task in my GitHub repository.
+
+---
+
+## 🧠 My Learning Philosophy
+
+```text
+LEARN 📚
+   ↓
+PRACTICE 💻
+   ↓
+SOLVE 🧠
+   ↓
+BUILD 🚀
+   ↓
+DOCUMENT 📝
+   ↓
+IMPROVE 📈
+```
+
+The objective is not simply to complete courses.
+
+**The objective is to build work that demonstrates the skill.**
 
 ---
 
 ## 🎯 Current Goal
 
-Become **job-ready for Data Analytics / Data Science roles** by combining strong fundamentals with practical projects.
+Build a strong, job-ready portfolio for **Data Analytics / Data Science opportunities** by combining:
 
-```text
-Python + SQL + Excel + Power BI
-             ↓
-         Statistics
-             ↓
-     Machine Learning
-             ↓
-       AI / Gen AI
-```
+**Python + SQL + Excel + Power BI + Statistics + Machine Learning**
+
+with practical projects and clear documentation.
 
 ---
 
-## 🔗 Connect
+## 📂 Explore My Work
+
+- 📚 [Data Science Learning](https://github.com/chandanB47/Data-Science-Learning)
+- 👤 [All GitHub Repositories](https://github.com/chandanB47?tab=repositories)
+- 💼 [LinkedIn](https://linkedin.com/in/chandan47)
+
+---
+
+## 📫 Connect
 
 <p align="center">
-<a href="https://github.com/chandanB47">
-<img src="https://img.shields.io/badge/GitHub-chandanB47-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/chandan47">
-<img src="https://img.shields.io/badge/LinkedIn-Chandan%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="https://github.com/chandanB47">
+    <img src="https://img.shields.io/badge/GitHub-chandanB47-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/chandan47">
+    <img src="https://img.shields.io/badge/LinkedIn-Chandan%20B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
