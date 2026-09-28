@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chandan B
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:6D28D9,100:06B6D4&height=220&section=header&text=DATA%20SCIENCE%20JOURNEY&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Python%20%7C%20SQL%20%7C%20Excel%20%7C%20PowerBI%20%7C%20Analytics%20%7C%20AI&descAlignY=58&descSize=18&descColor=67E8F9&animation=twinkling" width="100%" alt="Data Science Journey"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,20:2563EB,40:7C3AED,60:D946EF,80:F43F5E,100:F59E0B&height=220&section=header&text=DATA%20SCIENCE%20JOURNEY&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Python%20%7C%20SQL%20%7C%20Excel%20%7C%20PowerBI%20%7C%20Analytics%20%7C%20AI&descAlignY=58&descSize=18&descColor=FFFFFF&animation=twinkling" width="100%" alt="Data Science Journey"/>
 </p>
 
 <p align="center">
@@ -251,7 +251,11 @@ I'm working toward becoming a **job-ready Data Science professional** by buildin
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:7C3AED,65:EC4899,100:FF6B00&height=140&section=footer&animation=twinkling"
+    width="100%"
+    alt="Animated cyberpunk footer"
+  />
 </p>
 
 <p align="center">
