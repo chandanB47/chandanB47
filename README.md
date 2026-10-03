@@ -184,7 +184,7 @@ I'm developing my **Excel & Advanced Excel** skills through practical assignment
 | 🎓 Student Management System | Python | ✅ Completed |
 | 🚗 Vehicle Management System | Python | ✅ Completed |
 | 🎟️ Event Ticket Reservation System | Python | ✅ Completed |
-| 📊 Excel VLOOKUP Assignment | Excel | 🔄 Current |
+| 📊 Excel VLOOKUP Assignment | Excel | ✅ Completed |
 
 ---
 
