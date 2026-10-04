@@ -255,6 +255,16 @@ I'm working toward becoming a **job-ready Data Science professional** by buildin
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Learning+every+day+%F0%9F%9A%80;Building+consistently+%F0%9F%92%BB;Growing+step+by+step+%F0%9F%93%88" alt="Footer animation"/>
 </p>
 
+
+<p align="center">
+  ⭐ If you find something useful in my repositories, feel free to star them!
+</p>
+
+
+
+
+
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:7C3AED,65:EC4899,100:FF6B00&height=140&section=footer&animation=twinkling"
@@ -263,6 +273,3 @@ I'm working toward becoming a **job-ready Data Science professional** by buildin
   />
 </p>
 
-<p align="center">
-  ⭐ If you find something useful in my repositories, feel free to star them!
-</p>
