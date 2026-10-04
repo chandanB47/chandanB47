@@ -19,7 +19,10 @@
   <img src="https://img.shields.io/badge/Data%20Science-In%20Progress-F59E0B?style=for-the-badge"/>
 </p>
 
----
+<div align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=chandanb47&theme=neon&v=readme-reference-2" width="100%" alt="Neon section divider"/>
+</div>
+
 
 ## 🧑‍💻 About Me
 
@@ -244,7 +247,9 @@ I'm working toward becoming a **job-ready Data Science professional** by buildin
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/divider?username=chandanb47&theme=neon&v=readme-reference-2" width="100%" alt="Neon section divider"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Learning+every+day+%F0%9F%9A%80;Building+consistently+%F0%9F%92%BB;Growing+step+by+step+%F0%9F%93%88" alt="Footer animation"/>
