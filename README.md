@@ -123,6 +123,7 @@ I'm currently progressing through a **Data Science & Gen AI program**, building 
 | 🚗 Vehicle Management System | Python | ✅ Completed |
 | 🎟️ Event Ticket Reservation System | Python | ✅ Completed |
 | 📊 Excel VLOOKUP Assignment | Excel | ✅ Completed |
+| 🛒 Retail Store Operations & Analytics | SQL | ✅ Completed | 
 
 ---
 
