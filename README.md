@@ -102,71 +102,6 @@ I'm currently progressing through a **Data Science & Gen AI program**, building 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Tools"/>
 </p>
 
----
-
-## 🐍 Python — Completed
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1900&pause=600&color=60A5FA&center=true&vCenter=true&width=700&lines=CODE+%E2%86%92+SOLVE+%E2%86%92+BUILD;Python+fundamentals+%2B+problem+solving" alt="Python animation"/>
-</p>
-
-My Python learning journey includes:
-
-* Variables & Data Types
-* Strings
-* Lists, Tuples, Sets & Dictionaries
-* Conditional Statements
-* Loops
-* Functions
-* Object-Oriented Programming
-* File Handling
-* Exception Handling
-* Problem Solving
-* Console-based Applications
-
----
-
-## 🗄️ SQL — Completed
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1900&pause=600&color=22D3EE&center=true&vCenter=true&width=700&lines=QUERY+%E2%86%92+ANALYZE+%E2%86%92+INSIGHT;SQL+for+real-world+business+problems" alt="SQL animation"/>
-</p>
-
-SQL topics practiced include:
-
-* Database & DBMS fundamentals
-* DDL, DML, DQL, DCL & TCL
-* SELECT queries
-* Filtering & Sorting
-* Aggregate Functions
-* GROUP BY & HAVING
-* Joins
-* Subqueries
-* Constraints
-* Real-world SQL problems
-* Interview-oriented SQL practice
-
----
-
-## 📊 Excel — Completed
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1900&pause=600&color=34D399&center=true&vCenter=true&width=700&lines=CLEAN+%E2%86%92+ANALYZE+%E2%86%92+VISUALIZE;Excel+%2B+Advanced+Excel" alt="Excel animation"/>
-</p>
-
-I'm developing my **Excel & Advanced Excel** skills through practical assignments.
-
-### Current Focus
-
-* Data Cleaning
-* Excel Functions
-* Logical Functions
-* Lookup Functions
-* VLOOKUP
-* Data Analysis
-* Pivot Tables
-* Charts & Visualization
-* Advanced Excel techniques
 
 ---
 
@@ -221,14 +156,6 @@ I'm working toward becoming a **job-ready Data Science professional** by buildin
 🧠 AI & Gen AI projects  
 🧩 Agentic AI projects  
 📝 Learning notes & documentation
-
----
-
-## 📊 My Learning Philosophy
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1600&pause=500&color=22D3EE&center=true&vCenter=true&width=800&lines=LEARN+%F0%9F%93%9A+%E2%86%92+PRACTICE+%F0%9F%92%BB+%E2%86%92+SOLVE+%F0%9F%A7%A0;BUILD+%F0%9F%9A%80+%E2%86%92+DOCUMENT+%F0%9F%93%9D+%E2%86%92+IMPROVE+%F0%9F%93%88" alt="Learning philosophy animation"/>
-</p>
 
 ---
 
