@@ -77,8 +77,9 @@ def anim(attr, points, extra=''):
     return f'<animate attributeName="{attr}" values="{v}" keyTimes="{k}" dur="{T}s" repeatCount="indefinite" {extra}/>'
 
 # ------------------------------------------------------------------ svg parts
-font_d = base64.b64encode(open(os.path.join(HERE, 'barlow-bold-subset.woff2'), 'rb').read()).decode()
-font_m = base64.b64encode(open(os.path.join(HERE, 'plexmono-subset.woff2'), 'rb').read()).decode()
+# Use system-font fallbacks so the script does not require external WOFF2 files.
+font_d = ''
+font_m = ''
 
 def txt(x, y, s, size, fill='#f2f5ff', mono=False, ls=0, anchor=None, extra=''):
     a = f' text-anchor="{anchor}"' if anchor else ''
@@ -153,9 +154,8 @@ progress = (f'<rect x="{bar_x}" y="458" width="{bar_w}" height="6" rx="3" fill="
             f'<rect x="{bar_x}" y="458" width="0" height="6" rx="3" fill="url(#bar)">'
             + anim('width', [(0, 0), (LEAD, 0), (SWEEP_END, bar_w), (T - 1.2, bar_w), (T - 0.6, 0), (T, 0)]) + '</rect>')
 
-CSS = ('@font-face{font-family:Display;font-weight:700;src:url(data:font/woff2;base64,' + font_d + ') format("woff2")}'
-       '@font-face{font-family:Mono;font-weight:400;src:url(data:font/woff2;base64,' + font_m + ') format("woff2")}'
-       'text{font-family:Display,sans-serif;font-weight:700;fill:#f2f5ff}.mono{font-family:Mono,monospace;font-weight:400}'
+CSS = ('text{font-family:Arial,sans-serif;font-weight:700;fill:#f2f5ff}'
+       '.mono{font-family:"Courier New",monospace;font-weight:400}'
        '.enter{animation:entry 1s cubic-bezier(.16,1,.3,1) both}@keyframes entry{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}'
        '.blink{animation:blink 1s steps(2,end) infinite both}@keyframes blink{50%{opacity:.2}}'
        '.scan{animation:scan 8s ease-in-out infinite both}@keyframes scan{0%,30%{transform:translateX(-300px)}70%,100%{transform:translateX(1500px)}}'
