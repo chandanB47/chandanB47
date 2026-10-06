@@ -1,0 +1,15 @@
+<svg width="1200" height="210" viewBox="0 0 1200 210" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#6366F1"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+</defs>
+<rect width="1200" height="210" rx="22" fill="#0B1120" stroke="#1E293B"/>
+<text x="45" y="45" fill="#94A3B8" font-family="monospace" font-size="12" letter-spacing="3">CURRENT FOCUS / 2026</text>
+<line x1="45" y1="62" x2="1155" y2="62" stroke="#1E293B"/>
+<g font-family="Arial, sans-serif" font-weight="700" font-size="17">
+<rect x="45" y="95" width="180" height="58" rx="12" fill="#111827" stroke="#334155"/><text x="82" y="130" fill="#67E8F9">POWER BI</text>
+<rect x="260" y="95" width="180" height="58" rx="12" fill="#111827" stroke="#334155"/><text x="304" y="130" fill="#A5B4FC">STATISTICS</text>
+<rect x="475" y="95" width="180" height="58" rx="12" fill="#111827" stroke="#334155"/><text x="531" y="130" fill="#FDE68A">ML</text>
+<rect x="690" y="95" width="180" height="58" rx="12" fill="#111827" stroke="#334155"/><text x="723" y="130" fill="#C4B5FD">DATA SCIENCE</text>
+<rect x="905" y="95" width="250" height="58" rx="12" fill="#111827" stroke="url(#g)"/><text x="968" y="130" fill="#F9A8D4">AI / GEN AI</text>
+</g>
+</svg>
