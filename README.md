@@ -35,7 +35,8 @@
 
 <p align="center">
   <a href="https://github.com/chandanB47">GitHub — chandanB47</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/chandan47">LinkedIn — Chandan B</a>
+  <a href="https://linkedin.com/in/chandan47">LinkedIn — Chandan B</a> &nbsp;·&nbsp;
+  <a href="https://chandanb47.github.io/">Portfolio — Chandan B</a>
 </p>
 
 <p align="center"><sub>Learn → Practice → Build → Document → Improve. ⭐ Star my repos if you find something useful!</sub></p>
