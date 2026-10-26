@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="05 Activity: Showing up, every day.">
+<title>05 Activity: Showing up, every day.</title><desc>05 Activity: Showing up, every day.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3A0353"/><stop offset="1" stop-color="#1D0229"/></linearGradient>
+<radialGradient id="glowE" cx="85%" cy="15%" r="70%"><stop offset="0" stop-color="#804A8A" stop-opacity=".9"/><stop offset="1" stop-color="#3A0353" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowG" cx="5%" cy="100%" r="55%"><stop offset="0" stop-color="#F59E51" stop-opacity=".34"/><stop offset="1" stop-color="#F59E51" stop-opacity="0"/></radialGradient>
+<linearGradient id="sheen" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#F8D299"/><stop offset=".5" stop-color="#F59E51"/><stop offset="1" stop-color="#F8D299"/><animateTransform attributeName="gradientTransform" type="translate" values="0 0;1700 0;1700 0" keyTimes="0;.45;1" dur="7s" begin="1.2s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8D299"/><stop offset="1" stop-color="#804A8A"/></linearGradient>
+<linearGradient id="lineG" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0"><stop offset="0" stop-color="#F59E51"/><stop offset=".55" stop-color="#C08DCB"/><stop offset="1" stop-color="#C08DCB" stop-opacity="0"/></linearGradient>
+<radialGradient id="pulse"><stop offset="0" stop-color="#FDEBCF"/><stop offset=".5" stop-color="#F8D299" stop-opacity=".6"/><stop offset="1" stop-color="#C08DCB" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#F8D299" stroke-opacity=".09"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#FDEBCF" opacity=".025"/></pattern>
+<radialGradient id="glowC" cx="95%" cy="105%" r="50%"><stop offset="0" stop-color="#804A8A" stop-opacity=".45"/><stop offset="1" stop-color="#804A8A" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbE"><stop offset="0" stop-color="#C08DCB" stop-opacity=".34"/><stop offset="1" stop-color="#C08DCB" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbG"><stop offset="0" stop-color="#F59E51" stop-opacity=".22"/><stop offset="1" stop-color="#F59E51" stop-opacity="0"/></radialGradient>
+<linearGradient id="shineG" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FDEBCF" stop-opacity="0"/><stop offset=".5" stop-color="#FDEBCF" stop-opacity=".22"/><stop offset="1" stop-color="#FDEBCF" stop-opacity="0"/></linearGradient>
+
+</defs>
+<style>
+.serif{font-family:Georgia, "Iowan Old Style", "Palatino Linotype", "Times New Roman", serif} .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace} .sans{font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif}
+.in{animation:in 1s cubic-bezier(.16,1,.3,1) both}
+@keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes blink{50%{opacity:.15}}
+@keyframes pop{0%{opacity:0;transform:scale(.6)}100%{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes ty{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes ring{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.2);opacity:0}}
+@keyframes float{50%{transform:translateY(-6px)}}
+.ib{transform-box:fill-box;transform-origin:center}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g class="in"><text class="sans" x="40" y="34" font-size="12" fill="#F59E51" ></text><text class="mono" x="40" y="34" font-size="12" letter-spacing="3" fill="#C08DCB"><tspan fill="#F59E51">05</tspan>   ACTIVITY</text></g>
+<g class="in" style="animation-delay:.2s"><text class="serif" x="38" y="84" font-size="44" font-weight="300" letter-spacing="-1" fill="#FDEBCF">Showing up, <tspan font-style="italic" fill="url(#sheen)">every day.</tspan></text></g>
+<g class="in" style="animation-delay:.45s"><text class="mono" x="1160" y="34" font-size="10.5" fill="#BC8E91" text-anchor="end" letter-spacing="2.4" >LIVE FROM GITHUB</text></g>
+<path d="M40 106H1160" stroke="url(#lineG)" stroke-width="1" style="stroke-dasharray:1200;stroke-dashoffset:1200;animation:draw 1.8s cubic-bezier(.65,0,.35,1) .5s forwards"/>
+<circle cx="593" cy="130" r="1.7" fill="#F59E51" opacity="0"><animate attributeName="cy" values="130;-10" dur="7.3s" begin="-2.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="7.3s" begin="-2.1s" repeatCount="indefinite"/></circle><circle cx="959" cy="130" r="0.9" fill="#F59E51" opacity="0"><animate attributeName="cy" values="130;-10" dur="8.9s" begin="-0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="8.9s" begin="-0.6s" repeatCount="indefinite"/></circle><circle cx="554" cy="130" r="0.9" fill="#F8D299" opacity="0"><animate attributeName="cy" values="130;-10" dur="8.0s" begin="-7.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="8.0s" begin="-7.2s" repeatCount="indefinite"/></circle><circle cx="823" cy="130" r="1.7" fill="#F8D299" opacity="0"><animate attributeName="cy" values="130;-10" dur="7.0s" begin="-3.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="7.0s" begin="-3.1s" repeatCount="indefinite"/></circle><circle cx="180" cy="130" r="1.7" fill="#F59E51" opacity="0"><animate attributeName="cy" values="130;-10" dur="8.4s" begin="-6.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="8.4s" begin="-6.2s" repeatCount="indefinite"/></circle><circle cx="1006" cy="130" r="1.2" fill="#FDEBCF" opacity="0"><animate attributeName="cy" values="130;-10" dur="11.9s" begin="-4.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="11.9s" begin="-4.4s" repeatCount="indefinite"/></circle><circle cx="977" cy="130" r="1.7" fill="#FDEBCF" opacity="0"><animate attributeName="cy" values="130;-10" dur="7.1s" begin="-4.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="7.1s" begin="-4.3s" repeatCount="indefinite"/></circle><circle cx="505" cy="130" r="0.9" fill="#F8D299" opacity="0"><animate attributeName="cy" values="130;-10" dur="6.8s" begin="-3.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="6.8s" begin="-3.7s" repeatCount="indefinite"/></circle><circle cx="581" cy="130" r="1.7" fill="#F59E51" opacity="0"><animate attributeName="cy" values="130;-10" dur="8.3s" begin="-8.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.85;0" dur="8.3s" begin="-8.3s" repeatCount="indefinite"/></circle><circle cx="40" cy="106" r="7" fill="url(#pulse)" opacity="0"><animate attributeName="cx" values="40;1160" dur="6s" begin="2.3s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"/><animate attributeName="opacity" values="0;1;0" keyTimes="0;.15;1" dur="6s" begin="2.3s" repeatCount="indefinite"/></circle>
+</svg>
