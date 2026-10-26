@@ -5,9 +5,9 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/chandanB47"><img src="https://img.shields.io/badge/GitHub-chandanB47-804A8A?style=for-the-badge&labelColor=220230&logoColor=F8D299&logo=github" alt="GitHub profile"></a>
-  <a href="https://linkedin.com/in/chandan47"><img src="https://img.shields.io/badge/LinkedIn-chandan47-804A8A?style=for-the-badge&labelColor=220230&logoColor=F8D299&logo=linkedin" alt="LinkedIn profile"></a>
-  <a href="https://chandanb47.github.io/"><img src="https://img.shields.io/badge/Portfolio-chandanb47.github.io-804A8A?style=for-the-badge&labelColor=220230&logoColor=F8D299&logo=githubpages" alt="Portfolio website"></a>
+  <a href="https://github.com/chandanB47"><img src="https://img.shields.io/badge/GitHub-chandanB47-C2410C?style=for-the-badge&labelColor=171717&logoColor=FF8A4C&logo=github" alt="GitHub profile"></a>
+  <a href="https://linkedin.com/in/chandan47"><img src="https://img.shields.io/badge/LinkedIn-chandan47-C2410C?style=for-the-badge&labelColor=171717&logoColor=FF8A4C&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="https://chandanb47.github.io/"><img src="https://img.shields.io/badge/Portfolio-chandanb47.github.io-C2410C?style=for-the-badge&labelColor=171717&logoColor=FF8A4C&logo=githubpages" alt="Portfolio website"></a>
 </p>
 
 <img src="./assets/title-about.svg?v=1" width="100%" alt="01 About — Hello, I'm Chandan.">
@@ -20,13 +20,13 @@
 <img src="./assets/stack.svg?v=1" width="100%" alt="Tech stack. Programming and database: Python, MySQL, SQL, OOP, Functions, Joins, Subqueries. Data analytics: Excel, Data Cleaning, Pivot Tables, Charts, Lookup Functions, Power BI. Tools: Git, GitHub, VS Code, Jupyter.">
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-471159?style=for-the-badge&logo=python&logoColor=F8D299&labelColor=471159">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-471159?style=for-the-badge&logo=mysql&logoColor=F8D299&labelColor=471159">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-471159?style=for-the-badge&logo=microsoftexcel&logoColor=F59E51&labelColor=471159">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-471159?style=for-the-badge&logo=powerbi&logoColor=F59E51&labelColor=471159">
-  <img alt="Git" src="https://img.shields.io/badge/Git-471159?style=for-the-badge&logo=git&logoColor=FDEBCF&labelColor=471159">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-471159?style=for-the-badge&logo=github&logoColor=FDEBCF&labelColor=471159">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-471159?style=for-the-badge&logo=jupyter&logoColor=FDEBCF&labelColor=471159">
+  <img alt="Python" src="https://img.shields.io/badge/Python-471159?style=for-the-badge&logo=python&logoColor=FF8A4C&labelColor=471159">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-471159?style=for-the-badge&logo=mysql&logoColor=FF8A4C&labelColor=471159">
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-471159?style=for-the-badge&logo=microsoftexcel&logoColor=FFC857&labelColor=471159">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-471159?style=for-the-badge&logo=powerbi&logoColor=FFC857&labelColor=471159">
+  <img alt="Git" src="https://img.shields.io/badge/Git-471159?style=for-the-badge&logo=git&logoColor=FFF1E6&labelColor=471159">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-471159?style=for-the-badge&logo=github&logoColor=FFF1E6&labelColor=471159">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-471159?style=for-the-badge&logo=jupyter&logoColor=FFF1E6&labelColor=471159">
 </p>
 
 <img src="./assets/title-projects.svg?v=1" width="100%" alt="04 Projects — Built, not just studied.">
@@ -35,7 +35,9 @@
 <img src="./assets/title-activity.svg?v=1" width="100%" alt="05 Activity — Showing up, every day.">
 <img src="./assets/contribution-jet.svg?v=1" width="100%" alt="Contribution jet: an animated fighter jet flies across my GitHub contribution graph and shoots down every active day, keeping score, then the graph respawns.">
 
-
+<!--- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandanB47&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=171717&title_color=FF8A4C&text_color=A8A29E&icon_color=FFC857&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for chandanB47: stars, commits, pull requests and issues">
+</p> --->
 
 <img src="./assets/title-connect.svg?v=1" width="100%" alt="06 Connect — Let's learn, build and grow.">
 <a href="https://chandanb47.github.io/"><img src="./assets/connect.svg?v=1" width="100%" alt="Let's learn, build and grow. Connect on GitHub (chandanB47), LinkedIn (chandan47) or my portfolio (chandanb47.github.io)."></a>
