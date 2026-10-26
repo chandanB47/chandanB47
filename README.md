@@ -35,9 +35,9 @@
 <img src="./assets/title-activity.svg?v=1" width="100%" alt="05 Activity — Showing up, every day.">
 <img src="./assets/contribution-jet.svg?v=1" width="100%" alt="Contribution jet: an animated fighter jet flies across my GitHub contribution graph and shoots down every active day, keeping score, then the graph respawns.">
 
-<!--- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chandanB47&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=171717&title_color=FF8A4C&text_color=A8A29E&icon_color=FFC857&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for chandanB47: stars, commits, pull requests and issues">
-</p> --->
+</p>
 
 <img src="./assets/title-connect.svg?v=1" width="100%" alt="06 Connect — Let's learn, build and grow.">
 <a href="https://chandanb47.github.io/"><img src="./assets/connect.svg?v=1" width="100%" alt="Let's learn, build and grow. Connect on GitHub (chandanB47), LinkedIn (chandan47) or my portfolio (chandanb47.github.io)."></a>
