@@ -74,7 +74,7 @@ make data useful, clear, and actionable
 
 <img src="./assets/projects.svg?v=6" width="100%" alt="Five completed projects: Student Management System, Vehicle Management System, Event Ticket Reservation System (Python); Excel VLOOKUP Assignment (Excel); Retail Store Operations & Analytics (SQL)." />
 
-| Project | Technology | Status |
+<!--- | Project | Technology | Status |
 | :--- | :---: | :---: |
 | 🎓 Student Management System | Python | ✅ Completed |
 | 🚗 Vehicle Management System | Python | ✅ Completed |
@@ -82,6 +82,7 @@ make data useful, clear, and actionable
 | 📊 Excel VLOOKUP Assignment | Excel | ✅ Completed |
 | 🛒 Retail Store Operations & Analytics | SQL | ✅ Completed |
 |                                         | Power BI |  ⏭️ Up next |
+--->
 
 ## 🎯 Activity
 
