@@ -1,45 +1,37 @@
-<!-- Copy this folder's contents into the root of chandanB47/chandanB47 (README.md, assets/, .github/).
-     After pushing, run "Contribution Jet" once from the Actions tab to refresh assets/contribution-jet.svg with live data. -->
 <a href="https://chandanb47.github.io/">
-  <img src="./assets/hero.svg?v=1" width="100%" alt="Hi, I'm Chandan B — an aspiring data scientist moving from Python, SQL, Excel and Power BI toward Statistics, Machine Learning, AI, Gen AI and Agentic AI.">
+  <img src="./assets/hero.svg?v=3" width="100%" alt="Hi, I'm Chandan B — Data Analyst working with SQL, Power BI, Python and Excel. C Series portfolio.">
 </a>
 
 <p align="center">
-  <a href="https://github.com/chandanB47"><img src="https://img.shields.io/badge/GitHub-chandanB47-C2410C?style=for-the-badge&labelColor=171717&logoColor=FF8A4C&logo=github" alt="GitHub profile"></a>
-  <a href="https://linkedin.com/in/chandan47"><img src="https://img.shields.io/badge/LinkedIn-chandan47-C2410C?style=for-the-badge&labelColor=171717&logoColor=FF8A4C&logo=linkedin" alt="LinkedIn profile"></a>
-  <a href="https://chandanb47.github.io/"><img src="https://img.shields.io/badge/Portfolio-chandanb47.github.io-C2410C?style=for-the-badge&labelColor=171717&logoColor=FF8A4C&logo=githubpages" alt="Portfolio website"></a>
+  <a href="https://github.com/chandanB47"><img src="https://img.shields.io/badge/GitHub-chandanB47-E5132B?style=for-the-badge&labelColor=07070A&logoColor=F4F1EC&logo=github" alt="GitHub profile"></a>
+  <a href="https://linkedin.com/in/chandan47"><img src="https://img.shields.io/badge/LinkedIn-chandan47-E5132B?style=for-the-badge&labelColor=07070A&logoColor=F4F1EC&logo=linkedin" alt="LinkedIn profile"></a>
+  <a href="https://chandanb47.github.io/"><img src="https://img.shields.io/badge/Portfolio-chandanb47.github.io-E5132B?style=for-the-badge&labelColor=07070A&logoColor=F4F1EC&logo=githubpages" alt="Portfolio website"></a>
 </p>
 
-<img src="./assets/title-about.svg?v=1" width="100%" alt="01 About — Hello, I'm Chandan.">
-<img src="./assets/about-intro.svg?v=1" width="100%" alt="About: Chandan B, aspiring data scientist. I explore data, find patterns and solve problems. My approach: understand, analyze, visualize, improve. My goal: make data useful, clear and actionable. 4 of 9 modules and 5 projects complete; Statistics is next.">
+<img src="./assets/title-about.svg?v=3" width="100%" alt="01 About — Hello, I'm Chandan.">
+<img src="./assets/about.svg?v=3" width="100%" alt="About: Chandan B, Data Analyst. I turn messy operational data into clear, trustworthy reports that people can act on. Roadmap: Python, SQL, Excel and Power BI complete; Statistics next, then Machine Learning, AI, Gen AI and Agentic AI.">
 
-<img src="./assets/title-roadmap.svg?v=1" width="100%" alt="02 Roadmap — Nine modules, one direction.">
-<img src="./assets/journey.svg?v=1" width="100%" alt="Roadmap and progress, October 2026: Python, SQL, Excel and Power BI completed; Statistics up next; Machine Learning, AI, Gen AI and Agentic AI upcoming. 4 of 9 modules and 5 projects complete.">
+<img src="./assets/title-impact.svg?v=3" width="100%" alt="02 Impact — Results, not adjectives.">
+<img src="./assets/impact.svg?v=3" width="100%" alt="About 20 percent higher data accuracy; 10 to 15 percent fewer invoice discrepancies; 10,000-plus records cleaned with SQL; about 40 percent faster SQL queries.">
 
-<img src="./assets/title-stack.svg?v=1" width="100%" alt="03 Stack — The tools I reach for.">
-<img src="./assets/stack.svg?v=1" width="100%" alt="Tech stack. Programming and database: Python, MySQL, SQL, OOP, Functions, Joins, Subqueries. Data analytics: Excel, Data Cleaning, Pivot Tables, Charts, Lookup Functions, Power BI. Tools: Git, GitHub, VS Code, Jupyter.">
+<img src="./assets/title-stack.svg?v=3" width="100%" alt="03 Stack — The tools I reach for.">
+<img src="./assets/stack.svg?v=3" width="100%" alt="Tech stack: Python, SQL, MySQL, SQLite, Power BI, Excel, SAP ERP, TCS iON, Git, GitHub, VS Code, Jupyter. Credentials: Accenture North America (Forage), Letsupgrade SQL Bootcamp, Infosys Springboard Microsoft Power BI.">
+
+<img src="./assets/title-projects.svg?v=3" width="100%" alt="04 Projects — Built, not just studied.">
+<a href="https://chandanb47.github.io/#originals"><img src="./assets/projects.svg?v=3" width="100%" alt="Eight projects, led by E-Commerce Pricing and Revenue Analysis and Spotify Data Analysis, both in SQL."></a>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-471159?style=for-the-badge&logo=python&logoColor=FF8A4C&labelColor=471159">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-471159?style=for-the-badge&logo=mysql&logoColor=FF8A4C&labelColor=471159">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-471159?style=for-the-badge&logo=microsoftexcel&logoColor=FFC857&labelColor=471159">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-471159?style=for-the-badge&logo=powerbi&logoColor=FFC857&labelColor=471159">
-  <img alt="Git" src="https://img.shields.io/badge/Git-471159?style=for-the-badge&logo=git&logoColor=FFF1E6&labelColor=471159">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-471159?style=for-the-badge&logo=github&logoColor=FFF1E6&labelColor=471159">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-471159?style=for-the-badge&logo=jupyter&logoColor=FFF1E6&labelColor=471159">
+  <a href="https://github.com/chandanB47/Retail-Operations-SQL-Analytics"><img src="https://img.shields.io/badge/Retail%20SQL%20Analytics-repo-E5132B?style=flat-square&labelColor=07070A&logo=github&logoColor=F4F1EC" alt="Retail Operations SQL Analytics repository"></a>
+  <a href="https://github.com/chandanB47/EventSphere"><img src="https://img.shields.io/badge/EventSphere-repo-E5132B?style=flat-square&labelColor=07070A&logo=github&logoColor=F4F1EC" alt="EventSphere repository"></a>
+  <a href="https://github.com/chandanB47/vehicle-rental-system"><img src="https://img.shields.io/badge/Vehicle%20Rental-repo-E5132B?style=flat-square&labelColor=07070A&logo=github&logoColor=F4F1EC" alt="Vehicle Rental System repository"></a>
+  <a href="https://github.com/chandanB47/Statistics-for-Data-Science"><img src="https://img.shields.io/badge/Statistics-repo-E5132B?style=flat-square&labelColor=07070A&logo=github&logoColor=F4F1EC" alt="Statistics for Data Science repository"></a>
+  <a href="https://github.com/chandanB47/Data-Science-Learning"><img src="https://img.shields.io/badge/Data%20Science%20Learning-repo-E5132B?style=flat-square&labelColor=07070A&logo=github&logoColor=F4F1EC" alt="Data Science Learning repository"></a>
 </p>
 
-<img src="./assets/title-projects.svg?v=1" width="100%" alt="04 Projects — Built, not just studied.">
-<img src="./assets/projects.svg?v=1" width="100%" alt="Five completed projects: Student Management System, Vehicle Management System and Event Ticket Reservation System (Python); Excel VLOOKUP Assignment (Excel); Retail Store Operations and Analytics (SQL). A Power BI project is up next.">
+<img src="./assets/title-activity.svg?v=3" width="100%" alt="05 Activity — Showing up, every day.">
+<img src="./assets/contribution-jet.svg?v=3" width="100%" alt="Contribution jet: an animated fighter jet flies across my GitHub contribution graph and shoots down every active day, keeping score, then the graph respawns.">
 
-<img src="./assets/title-activity.svg?v=1" width="100%" alt="05 Activity — Showing up, every day.">
-<img src="./assets/contribution-jet.svg?v=1" width="100%" alt="Contribution jet: an animated fighter jet flies across my GitHub contribution graph and shoots down every active day, keeping score, then the graph respawns.">
+<img src="./assets/title-connect.svg?v=3" width="100%" alt="06 Connect — Let's learn, build and grow.">
+<a href="https://chandanb47.github.io/"><img src="./assets/connect.svg?v=3" width="100%" alt="Let's build. Connect on GitHub (chandanB47), LinkedIn (chandan47) or my portfolio (chandanb47.github.io)."></a>
 
-<!--- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandanB47&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=171717&title_color=FF8A4C&text_color=A8A29E&icon_color=FFC857&custom_title=GitHub%20at%20a%20glance" width="400" alt="GitHub stats for chandanB47: stars, commits, pull requests and issues">
-</p> --->
-
-<img src="./assets/title-connect.svg?v=1" width="100%" alt="06 Connect — Let's learn, build and grow.">
-<a href="https://chandanb47.github.io/"><img src="./assets/connect.svg?v=1" width="100%" alt="Let's learn, build and grow. Connect on GitHub (chandanB47), LinkedIn (chandan47) or my portfolio (chandanb47.github.io)."></a>
-
-<img src="./assets/footer.svg?v=1" width="100%" alt="Learn, Practice, Build, Document, Improve — making data useful, clear and actionable.">
+<img src="./assets/footer.svg?v=3" width="100%" alt="Learn, practice, build, document, improve — making data useful, clear and actionable.">
