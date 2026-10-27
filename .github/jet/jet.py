@@ -35,8 +35,8 @@ X0 = (W - (NC * P - 4)) / 2
 GY0 = 186
 JY = 366                             # jet lane
 SPEED = 520.0                        # bullet px / s
-BLUE, LBLUE, RED, BG = '#c2410c', '#ff8a4c', '#ffc857', '#121212'
-LEVEL = ['#211d1b', '#4a2a1a', '#c2410c', '#f25623', '#ffc857']
+BLUE, LBLUE, RED, BG = '#e5132b', '#ff3d5a', '#ff5d73', '#07070a'
+LEVEL = ['#15151b', '#4a1420', '#a3101f', '#e5132b', '#ff5d73']
 
 def cx(c): return X0 + c * P + CS / 2
 def cy(r): return GY0 + r * P + CS / 2
@@ -81,7 +81,7 @@ def anim(attr, points, extra=''):
 font_d = ''
 font_m = ''
 
-def txt(x, y, s, size, fill='#fff1e6', mono=False, ls=0, anchor=None, extra=''):
+def txt(x, y, s, size, fill='#f4f1ec', mono=False, ls=0, anchor=None, extra=''):
     a = f' text-anchor="{anchor}"' if anchor else ''
     l = f' letter-spacing="{ls}"' if ls else ''
     return f'<text x="{x}" y="{y}" font-size="{size}" style="fill:{fill}"{" class=\"mono\"" if mono else ""}{l}{a}{extra}>{escape(s)}</text>'
@@ -105,7 +105,7 @@ for th, c, r, ft, dist in hits:
         + anim('y', [(0, y0), (ft, y0), (th, y1 - 5), (T, y1 - 5)])
         + anim('opacity', [(0, 0), (ft - 0.001, 0), (ft, 1), (th, 1), (th + 0.001, 0), (T, 0)]) + '</rect>')
     parts.append(
-        f'<circle cx="{x:.1f}" cy="{y1:.1f}" r="2" fill="none" stroke="#ff8a4c" stroke-width="1.6" opacity="0">'
+        f'<circle cx="{x:.1f}" cy="{y1:.1f}" r="2" fill="none" stroke="#ff3d5a" stroke-width="1.6" opacity="0">'
         + anim('r', [(0, 2), (th, 2), (th + 0.38, 15), (T, 15)])
         + anim('opacity', [(0, 0), (th - 0.001, 0), (th, .95), (th + 0.38, 0), (T, 0)]) + '</circle>')
 
@@ -120,7 +120,7 @@ jet = (f'<g transform="translate(0,{JY})"><g><animateTransform attributeName="tr
        f'<ellipse cx="0" cy="18" rx="9" ry="14" fill="{RED}" opacity=".25" filter="url(#blur)"/>'
        f'<path d="M-2.5 11 L0 26 L2.5 11 Z" fill="{RED}"><animateTransform attributeName="transform" type="scale" values="1 .7;1 1.25;1 .7" dur=".18s" repeatCount="indefinite" additive="sum"/></path>'
        f'<path d="M0 -17 L5 -3 L17 10 L17 14 L5 9 L3 14 L0 11 L-3 14 L-5 9 L-17 14 L-17 10 L-5 -3 Z" fill="url(#jetg)" stroke="{LBLUE}" stroke-width=".8"/>'
-       f'<path d="M0 -10 C2.5 -6 2.5 0 0 3 C-2.5 0 -2.5 -6 0 -10 Z" fill="#3a1405"/>'
+       f'<path d="M0 -10 C2.5 -6 2.5 0 0 3 C-2.5 0 -2.5 -6 0 -10 Z" fill="#2a0508"/>'
        f'<circle cx="-17" cy="12" r="1.8" fill="{RED}"/><circle cx="17" cy="12" r="1.8" fill="{RED}"/></g></g>')
 parts.append(jet)
 
@@ -144,17 +144,17 @@ for i in range(digits):
                f'values="{vals}" keyTimes="{";".join(f"{q:.5f}" for q in kt)}" dur="{T}s" repeatCount="indefinite"/>{ds}</g></g>')
 
 legend_x = X0 + NC * P - 4 - 5 * 14 - 34 - 34
-legend = txt(legend_x, 326, 'LESS', 10, '#78716c', True, 1.4, 'end')
+legend = txt(legend_x, 326, 'LESS', 10, '#6f6e76', True, 1.4, 'end')
 for i in range(5):
     legend += f'<rect x="{legend_x+8+i*14}" y="318" width="10" height="10" rx="2.5" fill="{LEVEL[i]}"/>'
-legend += txt(legend_x + 8 + 5 * 14 + 4, 326, 'MORE', 10, '#78716c', True, 1.4)
+legend += txt(legend_x + 8 + 5 * 14 + 4, 326, 'MORE', 10, '#6f6e76', True, 1.4)
 
 bar_x, bar_w = 520, 636
-progress = (f'<rect x="{bar_x}" y="458" width="{bar_w}" height="6" rx="3" fill="#211d1b"/>'
+progress = (f'<rect x="{bar_x}" y="458" width="{bar_w}" height="6" rx="3" fill="#15151b"/>'
             f'<rect x="{bar_x}" y="458" width="0" height="6" rx="3" fill="url(#bar)">'
             + anim('width', [(0, 0), (LEAD, 0), (SWEEP_END, bar_w), (T - 1.2, bar_w), (T - 0.6, 0), (T, 0)]) + '</rect>')
 
-CSS = ('text{font-family:Arial,sans-serif;font-weight:700;fill:#fff1e6}'
+CSS = ('text{font-family:Arial,sans-serif;font-weight:700;fill:#f4f1ec}'
        '.mono{font-family:"Courier New",monospace;font-weight:400}'
        '.enter{animation:entry 1s cubic-bezier(.16,1,.3,1) both}@keyframes entry{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}'
        '.blink{animation:blink 1s steps(2,end) infinite both}@keyframes blink{50%{opacity:.2}}'
@@ -166,22 +166,22 @@ import random; random.seed(7)
 for _ in range(30):
     sx, sy = random.randint(30, W - 30), random.randint(100, JY + 60)
     d = random.uniform(2, 5)
-    stars += f'<circle cx="{sx}" cy="{sy}" r="{random.choice([.8,1.1,1.5])}" fill="#ff8a4c" opacity="0"><animate attributeName="opacity" values="0;.7;0" dur="{d:.1f}s" begin="{-random.uniform(0,d):.1f}s" repeatCount="indefinite"/></circle>'
+    stars += f'<circle cx="{sx}" cy="{sy}" r="{random.choice([.8,1.1,1.5])}" fill="#ff3d5a" opacity="0"><animate attributeName="opacity" values="0;.7;0" dur="{d:.1f}s" begin="{-random.uniform(0,d):.1f}s" repeatCount="indefinite"/></circle>'
 
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="jt jd">
 <title id="jt">Contribution jet — {escape(USER)}</title>
 <desc id="jd">An animated jet flies across the GitHub contribution graph of {escape(USER)} and shoots down {N} active days, keeping score, then the graph respawns and the game loops.</desc>
 <style>{CSS}</style>
 <defs>
-<linearGradient id="hair"><stop stop-color="{BLUE}" stop-opacity=".7"/><stop offset=".5" stop-color="#c2410c" stop-opacity=".25"/><stop offset="1" stop-color="{RED}" stop-opacity=".65"/></linearGradient>
+<linearGradient id="hair"><stop stop-color="{BLUE}" stop-opacity=".7"/><stop offset=".5" stop-color="#e5132b" stop-opacity=".25"/><stop offset="1" stop-color="{RED}" stop-opacity=".65"/></linearGradient>
 <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".45" stop-color="{LBLUE}"/><stop offset="1" stop-color="{BLUE}"/></linearGradient>
-<linearGradient id="jetg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".55" stop-color="#ff8a4c"/><stop offset="1" stop-color="#c2410c"/></linearGradient>
+<linearGradient id="jetg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffffff"/><stop offset=".55" stop-color="#ff3d5a"/><stop offset="1" stop-color="#e5132b"/></linearGradient>
 <linearGradient id="bar" x1="0" x2="1"><stop stop-color="{BLUE}"/><stop offset="1" stop-color="{LBLUE}"/></linearGradient>
-<linearGradient id="foil"><stop stop-color="#ffc857" stop-opacity="0"/><stop offset=".45" stop-color="#ffc857" stop-opacity="0"/><stop offset=".5" stop-color="#fff1e6" stop-opacity=".14"/><stop offset=".56" stop-color="{RED}" stop-opacity=".06"/><stop offset="1" stop-color="{RED}" stop-opacity="0"/></linearGradient>
-<radialGradient id="halo"><stop stop-color="#c2410c" stop-opacity=".34"/><stop offset="1" stop-color="#c2410c" stop-opacity="0"/></radialGradient>
-<radialGradient id="rhalo"><stop stop-color="#ffc857" stop-opacity=".2"/><stop offset="1" stop-color="#ffc857" stop-opacity="0"/></radialGradient>
-<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#a8a29e" opacity=".13"/></pattern>
-<pattern id="lines" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0V8" stroke="#c2410c" stroke-opacity=".10" stroke-width="2"/></pattern>
+<linearGradient id="foil"><stop stop-color="#ff5d73" stop-opacity="0"/><stop offset=".45" stop-color="#ff5d73" stop-opacity="0"/><stop offset=".5" stop-color="#f4f1ec" stop-opacity=".14"/><stop offset=".56" stop-color="{RED}" stop-opacity=".06"/><stop offset="1" stop-color="{RED}" stop-opacity="0"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#e5132b" stop-opacity=".34"/><stop offset="1" stop-color="#e5132b" stop-opacity="0"/></radialGradient>
+<radialGradient id="rhalo"><stop stop-color="#ff5d73" stop-opacity=".2"/><stop offset="1" stop-color="#ff5d73" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#a7a6ad" opacity=".13"/></pattern>
+<pattern id="lines" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><path d="M0 0V8" stroke="#e5132b" stroke-opacity=".10" stroke-width="2"/></pattern>
 <filter id="blur" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4"/></filter>
 <clipPath id="outer"><rect x="1" y="1" width="{W-2}" height="{H-2}" rx="24"/></clipPath>
 </defs>
@@ -191,21 +191,21 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 <rect x="2" y="2" width="{W-4}" height="{H-4}" rx="21" fill="url(#lines)"/>
 <ellipse cx="260" cy="{JY}" rx="420" ry="220" fill="url(#halo)"/><ellipse cx="1150" cy="80" rx="260" ry="220" fill="url(#rhalo)"/>
 {stars}
-{txt(44, 44, '05 / CONTRIBUTION JET', 11, '#a8a29e', True, 1.6)}
-{txt(W-44, 44, 'LIVE DATA / ' + USER.upper(), 11, '#a8a29e', True, 1.6, 'end')}
-<path d="M42 76 L{W-42} 76" stroke="#2b2522" stroke-width="1.5" fill="none"/>
+{txt(44, 44, '05 / CONTRIBUTION JET', 11, '#a7a6ad', True, 1.6)}
+{txt(W-44, 44, 'LIVE DATA / ' + USER.upper(), 11, '#a7a6ad', True, 1.6, 'end')}
+<path d="M42 76 L{W-42} 76" stroke="#24242c" stroke-width="1.5" fill="none"/>
 <g class="enter"><text x="40" y="128" font-size="52" style="fill:url(#aurora)">SHOOT DOWN THE GRAPH.</text></g>
-<g class="enter" style="animation-delay:.2s">{txt(44, 158, 'EVERY GLOWING CELL IS A DAY I SHOWED UP. THE JET CLEARS THEM — THEN THEY RESPAWN.', 12, '#a8a29e', True, 1.6)}</g>
+<g class="enter" style="animation-delay:.2s">{txt(44, 158, 'EVERY GLOWING CELL IS A DAY I SHOWED UP. THE JET CLEARS THEM — THEN THEY RESPAWN.', 12, '#a7a6ad', True, 1.6)}</g>
 {''.join(parts)}
 {legend}
-<path d="M{X0:.1f} {JY+26} H{X0+NC*P-4:.1f}" stroke="#2b2522" stroke-dasharray="3 7"/>
-{txt(44, 424, 'ACTIVE DAYS DESTROYED', 11, '#a8a29e', True, 1.6)}
+<path d="M{X0:.1f} {JY+26} H{X0+NC*P-4:.1f}" stroke="#24242c" stroke-dasharray="3 7"/>
+{txt(44, 424, 'ACTIVE DAYS DESTROYED', 11, '#a7a6ad', True, 1.6)}
 {strips}
-{txt(SX + digits * DW + 6, 470, '/ ' + str(N), 28, '#78716c')}
-{txt(bar_x, 446, 'SWEEP PROGRESS', 11, '#ff8a4c', True, 1.6)}
-{txt(W-44, 446, 'AUTOPILOT / LOOPING', 11, '#a8a29e', True, 1.6, 'end')}
+{txt(SX + digits * DW + 6, 470, '/ ' + str(N), 28, '#6f6e76')}
+{txt(bar_x, 446, 'SWEEP PROGRESS', 11, '#ff3d5a', True, 1.6)}
+{txt(W-44, 446, 'AUTOPILOT / LOOPING', 11, '#a7a6ad', True, 1.6, 'end')}
 {progress}
-{txt(bar_x, 486, 'SOURCE / GITHUB CONTRIBUTION GRAPH — REFRESHED BY GITHUB ACTIONS', 10, '#78716c', True, 1.4)}
+{txt(bar_x, 486, 'SOURCE / GITHUB CONTRIBUTION GRAPH — REFRESHED BY GITHUB ACTIONS', 10, '#6f6e76', True, 1.4)}
 <rect x="{bar_x-14}" y="446" width="6" height="12" fill="{RED}" class="blink"/>
 <g class="scan"><rect x="-200" y="0" width="220" height="{H}" fill="url(#foil)" transform="skewX(-18)"/></g>
 </g>
